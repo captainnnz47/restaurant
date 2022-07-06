@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="0.0" y="1178.2994791666667">META-INF</node>
+    <node x="29.747125668449186" y="362.29947916666674">Restaurant</node>
+    <node x="129.90909090909093" y="154.29947916666674">view</node>
+    <node x="11.858065953654204" y="273.29947916666674">controller</node>
+    <node x="967.7471256684491" y="0.0">groovyjarjarasm</node>
+    <node x="194.0" y="1178.2994791666667">groovy</node>
+    <node x="369.0" y="1178.2994791666667">org</node>
+    <node x="40.000000000000014" y="15.299479166666742">model</node>
+    <node x="319.74712566844914" y="28.8828125">groovyjarjarcommonscli</node>
+    <node x="362.74712566844914" y="155.6328125">groovyjarjarantlr</node>
+    <node x="80.96223262032086" y="1082.2994791666667">Application</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Restaurant" target="model">
+      <point x="138.66666666666663" y="-335.0" />
+      <point x="324.41379233511583" y="322.29947916666674" />
+      <point x="265.40909090909093" y="322.29947916666674" />
+      <point x="265.40909090909093" y="104.29947916666674" />
+      <point x="158.36363636363632" y="104.29947916666674" />
+      <point x="56.36363636363632" y="14.5" />
+    </edge>
+    <edge source="view" target="model">
+      <point x="-28.50000000000003" y="-14.5" />
+      <point x="158.4090909090909" y="134.29947916666674" />
+      <point x="124.54545454545455" y="134.29947916666674" />
+      <point x="22.545454545454533" y="14.5" />
+    </edge>
+    <edge source="groovyjarjarantlr" target="groovyjarjarantlr">
+      <point x="0.0" y="14.5" />
+      <point x="456.74712566844914" y="214.6328125" />
+      <point x="332.74712566844914" y="214.6328125" />
+      <point x="332.74712566844914" y="170.1328125" />
+      <point x="-94.0" y="-0.0" />
+    </edge>
+    <edge source="view" target="view">
+      <point x="-35.625" y="14.5" />
+      <point x="151.28409090909093" y="213.29947916666674" />
+      <point x="99.90909090909093" y="213.29947916666674" />
+      <point x="99.90909090909093" y="168.79947916666674" />
+      <point x="-57.0" y="-0.0" />
+    </edge>
+    <edge source="Restaurant" target="view">
+      <point x="2.8421709430404007E-14" y="-335.0" />
+      <point x="185.7471256684492" y="342.29947916666674" />
+      <point x="208.28409090909093" y="342.29947916666674" />
+      <point x="21.375" y="14.5" />
+    </edge>
+    <edge source="Restaurant" target="controller">
+      <point x="-103.99999999999994" y="-335.0" />
+      <point x="81.74712566844924" y="332.29947916666674" />
+      <point x="36.19139928698755" y="332.29947916666674" />
+      <point x="-48.66666666666666" y="14.5" />
+    </edge>
+    <edge source="Application" target="Restaurant">
+      <point x="-46.0" y="-25.5" />
+      <point x="126.96223262032086" y="1057.2994791666667" />
+      <point x="107.74712566844919" y="1057.2994791666667" />
+      <point x="-78.0" y="335.0" />
+    </edge>
+    <edge source="groovyjarjarcommonscli" target="groovyjarjarcommonscli">
+      <point x="-58.25" y="14.5" />
+      <point x="377.99712566844914" y="77.8828125" />
+      <point x="299.74712566844914" y="77.8828125" />
+      <point x="299.74712566844914" y="50.6328125" />
+      <point x="-116.5" y="7.25" />
+    </edge>
+    <edge source="controller" target="view">
+      <point x="58.400000000000006" y="-14.5" />
+      <point x="143.2580659536542" y="253.29947916666674" />
+      <point x="194.03409090909093" y="253.29947916666674" />
+      <point x="7.125" y="14.5" />
+    </edge>
+    <edge source="model" target="model">
+      <point x="-56.36363636363636" y="14.5" />
+      <point x="45.636363636363654" y="64.29947916666674" />
+      <point x="20.0" y="64.29947916666674" />
+      <point x="20.0" y="39.466145833333485" />
+      <point x="-62.0" y="9.666666666666742" />
+    </edge>
+    <edge source="controller" target="model">
+      <point x="0.0" y="-14.5" />
+      <point x="84.8580659536542" y="253.29947916666674" />
+      <point x="79.40909090909093" y="253.29947916666674" />
+      <point x="79.40909090909093" y="134.29947916666674" />
+      <point x="113.27272727272728" y="134.29947916666674" />
+      <point x="11.272727272727266" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="309.5" y="440.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Fields</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>model</OriginalElement>
+  <nodes>
+    <node x="77.88666666666666" y="301.0">model.Order</node>
+    <node x="282.0" y="944.5">model.Orders</node>
+    <node x="741.8866666666667" y="0.0">model.Employees</node>
+    <node x="0.0" y="889.0">model.Tables</node>
+    <node x="387.88666666666666" y="466.5">model.Dishes</node>
+    <node x="0.0" y="1230.0">model.Ingredients</node>
+    <node x="200.83333333333337" y="-66.0">model.Dish</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="model.Tables" target="model.Order">
+      <point x="87.33333333333337" y="-148.0" />
+      <point x="218.33333333333337" y="869.0" />
+      <point x="222.88666666666666" y="869.0" />
+      <point x="0.0" y="269.0" />
+    </edge>
+    <edge source="model.Order" target="model.Dish">
+      <point x="72.5" y="-269.0" />
+      <point x="295.38666666666666" y="276.0" />
+      <point x="342.4333333333334" y="276.0" />
+      <point x="-92.39999999999998" y="125.5" />
+    </edge>
+    <edge source="model.Orders" target="model.Order">
+      <point x="-71.75" y="-92.5" />
+      <point x="353.75" y="869.0" />
+      <point x="280.88666666666666" y="869.0" />
+      <point x="58.0" y="269.0" />
+    </edge>
+    <edge source="model.Dishes" target="model.Dish">
+      <point x="103.0" y="-103.5" />
+      <point x="645.3866666666667" y="276.0" />
+      <point x="619.6333333333333" y="276.0" />
+      <point x="184.79999999999995" y="125.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="538.5" y="680.0" />
+  <SelectedNodes>
+    <node>model.Dish</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

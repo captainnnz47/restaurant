@@ -1,0 +1,61 @@
+Restaurant 207
+bun
+20
+10
+1
+Zinger fillets
+20
+10
+3
+lettuce
+20
+10
+1
+spicy mayonnaise sauce
+20
+10
+1
+potatoes
+20
+10
+1
+oil
+20
+10
+1
+salt
+20
+10
+1
+wheat flour
+20
+10
+1
+chicken wings
+20
+10
+2
+vanilla ice cream
+20
+10
+2
+strawberry sauce
+20
+10
+2
+ice
+50
+20
+1
+pepsi
+50
+10
+1
+water
+100
+20
+1
+instant tea
+20
+10
+1

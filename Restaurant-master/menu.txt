@@ -1,0 +1,31 @@
+Restaurant 207
+Zinger Burger
+meals
+bun,Zinger fillets,lettuce,spicy mayonnaise sauce
+2 2 2,1 1 2,1 0 1,1 0 1
+6.99
+French Fries
+sides
+potatoes,oil,salt
+2 2 2,1 1 1,1 1 1
+4.59
+Hot Wings
+sides
+chicken wings,oil,salt,wheat flour
+2 2 2,1 1 1,1 1 1,1 1 1
+9.99
+Strawberry Sundae
+desserts
+vanilla ice cream,strawberry sauce
+1 1 1,1 1 1
+3.49
+soft drink
+beverages
+ice,pepsi
+1 0 1,1 1 1
+2.99
+tea
+beverages
+water,instant tea
+1 1 1,1 1 1
+6.66

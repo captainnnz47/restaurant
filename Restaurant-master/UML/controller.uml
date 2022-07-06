@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>controller</OriginalElement>
+  <nodes>
+    <node x="-349.0" y="-248.0">controller.OrderTablet</node>
+    <node x="-94.0" y="329.0">controller.Receiver</node>
+    <node x="60.0" y="-250.0">controller.Cook</node>
+    <node x="62.0" y="45.0">controller.Manager</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="112.5" y="129.0" />
+  <SelectedNodes>
+    <node>controller.Receiver</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

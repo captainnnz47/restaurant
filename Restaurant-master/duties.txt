@@ -1,0 +1,45 @@
+Yinling Luo
+- Mainly take responsibility for controller and Restaurant;
+- Features: -implement the feature to have different OrderTablet and their own view
+            -start/end the day, with infos being stored/read
+            -Manager's work, including configuration, checkInfo
+            -change the implementation of cook
+            -new feature of Employees
+            -new feature of dish popularity
+            -new feature of set daily special
+            -help to connect GUI and the back-end
+- Classes: mainly: Employees, Manager, Restaurant, Cook, those info txt
+           did some work: Dish, Dishes, Order, Orders
+
+Zhuoran Pan
+- Mainly take responsibility for model;
+- Features: -new feature of dish popularity
+            -new feature of set daily special
+            -keep track in restaurant activities through time using log file
+            -implement the feature to have different OrderTablet and their own view
+            -update info files to record menu, ingredients inventory, tables at end of the day
+            -update revenue.txt to record every payments made
+            -help to connect GUI and the back-end
+- Classes: mainly: Dish, Dishes, Ingredients, Order, Orders, Tables, log.txt
+           did some work: OrderTablet
+
+Xinyue Zeng
+- Mainly take responsibility for view;
+- Features: -implement the feature to have different OrderTablet and their own view
+            -create frame and panels for different staff in restaurant
+            -connect GUI and the back-end
+            -create buttons and different kinds of data types like drop-down menu, ComboBox.
+            -establish different panels in order to have a clear structure.
+- Classes: mainly: CookPanel, CookView, EmployeePanel, ManagerPanel, ManagerView, ReceiverPanel, ReceiverView, uml.pdf
+           did some work: WelcomePanel
+
+Angela Hanjing Zhu
+- Mainly take responsibility for view and Application;
+- Features:  -implement the feature to have different OrderTablet and their own view
+             -new feature of split bill
+             -create frame and panel for different staff in restaurant
+             -connect GUI and the back-end
+             -create buttons and different kinds of data types like drop-down menu, ComboBox.
+             -establish different panels in order to have a clear structure.
+- Classes: mainly: MenuPanel, OrderPanel, TabletPanel, TabletView, Application, OrderTablet
+           did some work: Order, Restaurant
